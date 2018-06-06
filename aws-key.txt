@@ -1,0 +1,3 @@
+[Default]
+Access key Id: AKIAJZGZF7IQEDTSWKEA
+Secret Access Key: 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
